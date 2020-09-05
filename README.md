@@ -30,11 +30,16 @@
 <br />
 <br />
 
+----
+
 ### GitHub Statistics
 
 <img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api?username=FAXES&show_icons=true&hide_border=true&count_private=true" />
 
 <br />
+<br />
+
+----
 
 <img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAXES" />
 
