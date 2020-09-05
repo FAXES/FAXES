@@ -34,7 +34,7 @@
 ### GitHub Statistics
 
 <img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api?username=FAXES&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAXES&layout=compact" />
+<img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAXES" />
 
 
 [website]: https://faxes.zone
