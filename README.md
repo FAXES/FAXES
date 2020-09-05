@@ -28,20 +28,21 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
-<br />
 
 ----
 
 ### GitHub Statistics
+<div>
+    <img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api?username=FAXES&show_icons=true&hide_border=true&count_private=true" />
+</div>
 
-<img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api?username=FAXES&show_icons=true&hide_border=true&count_private=true" />
-
-<br />
 <br />
 
 ----
+<div>
+    <img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAXES" />
+</div>
 
-<img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAXES" />
 
 [website]: https://faxes.zone
 [twitter]: https://twitter.com/FAXES_YT
