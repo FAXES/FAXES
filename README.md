@@ -8,6 +8,8 @@
 [<img align="left" style="fill: #1DA1F2; color: #1DA1F2;" alt="FAXES - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" style="fill: #6441A4; color: #6441A4;" alt="FAXES - Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
+<br />
+
 [![Discord](https://faxes.zone/i/3itwe.png)](https://faxes.zone/discord)
 
 <br />
