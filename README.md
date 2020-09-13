@@ -2,6 +2,10 @@
 
 ### Find Me
 
+[![Discord](https://faxes.zone/i/3itwe.png)](https://faxes.zone/discord)
+
+
+
 [<img align="left" style="fill: #004d77; color: #004d77;" alt="www.faxes.zone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" style="fill: #7289DA; color: #7289DA;" alt="FAXES - Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" style="fill: red; color: red;" alt="FAXES - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
