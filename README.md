@@ -11,7 +11,7 @@
 <br />
 <br />
 
-[![Discord](https://faxes.zone/i/9wkr3.png)](https://faxes.zone/discord)
+[![Discord](https://faxes.zone/i/cx2ui4.png)](https://faxes.zone/discord)
 
 <br />
 
