@@ -41,7 +41,7 @@
 <img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api?username=FAXES&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAXES" />
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=braxtongpoll&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
 
 
 [website]: https://faxes.zone
