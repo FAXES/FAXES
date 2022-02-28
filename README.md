@@ -39,6 +39,79 @@
 ### GitHub Statistics
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-130-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 24 Contributions in the Year 2022
+ > 
+> 📦 103.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 71 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.17% 
+🌃 Evening    123 commits    ██████████████░░░░░░░░░░░   58.02% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.19%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       59 commits     ███████░░░░░░░░░░░░░░░░░░   27.83% 
+Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+Wednesday    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+Thursday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
+Friday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+Sunday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.34%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Lua** 
+
+```text
+Lua                      38 repos            █████████████████░░░░░░░░   67.86% 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   19.64% 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/FAXES/FAXES/master/charts/bar_graph.png) 
+
+
+ Last Updated on 28/02/2022 18:41:17 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://faxes.zone
