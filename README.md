@@ -12,8 +12,8 @@
 <br />
 <br />
 
-[![Discord](https://faxes.zone/i/bB0Gq.png#gh-light-mode-only)](https://faxes.zone/discord)
-[![Discord](https://faxes.zone/i/TJk35.png#gh-dark-mode-only)](https://faxes.zone/discord)
+[![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/light.png#gh-light-mode-only)](https://faxes.zone/discord)
+[![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/dark.png#gh-dark-mode-only)](https://faxes.zone/discord)
 
 <br />
 
