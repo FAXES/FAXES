@@ -10,15 +10,13 @@
 *Feel free to shoot me a follow or star some repositories!*
 
 <br />
-<br />
 
-[![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/light.png#gh-light-mode-only)](https://faxes.zone/discord)
-[![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/dark.png#gh-dark-mode-only)](https://faxes.zone/discord)
+![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/light.png#gh-light-mode-only)
+![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/dark.png#gh-dark-mode-only)
 
 <br />
 
 ## 🔧 Technologies & Tools
-
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=6aa6f8)
