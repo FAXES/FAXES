@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/FAXES_YT?label=Follow)](https://twitter.com/intent/follow?screen_name=FAXES_YT)
 ![GitHub followers](https://img.shields.io/github/followers/FAXES?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://faxes.zone)](https://faxes.zone)
-[![discord](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=discord&logoColor=white&link=https://faxes.zone/discord)](https://faxes.zone/discord)
+[![discord](https://img.shields.io/badge/Discord-46a2f1.svg?&style=flat-square&logo=discord&logoColor=white&link=https://faxes.zone/discord)](https://faxes.zone/discord)
 ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
 
 *Hi, I'm FAXES, a Full Stack Developer located in Australia, mainly working on Node based websites, I have previously worked on FiveM resources, Discord bots, PHP websites, and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate.*
