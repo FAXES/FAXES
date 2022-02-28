@@ -1,48 +1,44 @@
 ### 📠 [FAXES][website] 📠
 
-### Find Me
+[![Twitter Follow](https://img.shields.io/twitter/follow/FAXES_YT?label=Follow)](https://twitter.com/intent/follow?screen_name=FAXES_YT)
+![GitHub followers](https://img.shields.io/github/followers/FAXES?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://faxes.zone)](https://faxes.zone)
+![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
 
-[<img align="left" style="fill: #004d77; color: #004d77;" alt="www.faxes.zone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="fill: #7289DA; color: #7289DA;" alt="FAXES - Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" style="fill: red; color: red;" alt="FAXES - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" style="fill: #1DA1F2; color: #1DA1F2;" alt="FAXES - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" style="fill: #6441A4; color: #6441A4;" alt="FAXES - Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+*Hi, I'm FAXES, a Full Stack Developer located in Australia, mainly working on Node based websites, I have previously worked on FiveM resources, Discord bots, PHP websites, and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate.*
 
-<br />
-<br />
-
-[![Discord](https://faxes.zone/i/cx2ui4.png)](https://faxes.zone/discord)
+*Feel free to shoot me a follow or star some repositories!*
 
 <br />
+<br />
 
-### Languages and Tools/Platforms:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[![Discord](https://faxes.zone/i/bB0Gq.png#gh-light-mode-only)](https://faxes.zone/discord)
+[![Discord](https://faxes.zone/i/TJk35.png#gh-dark-mode-only)](https://faxes.zone/discord)
 
 <br />
+
+## 🔧 Technologies & Tools
+
+
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=nodedotjs&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=6aa6f8&logo=data:image/svg%2bxml;base64,PHN2ZyBoZWlnaHQ9IjE2OTNwdCIgdmlld0JveD0iLTAuMSAwIDExOTkuMyAxNjkyLjgiIHdpZHRoPSIxNjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yODIgMTE0djExNGgxODJ2LTc2SDM1OFY3NmgxMDZWMEgyODJ6TTUwMC4yIDc0LjJsLjMgNzQuMyA1Mi44LjMgNTIuNy4ydjEzSDUwMHY2OWgxODJWNzlINTc2VjY2aDEwNlYwSDUwMHpNNzE5IDc0LjVWMTQ5aDEwNXYxM0g3MTl2NjloMTgxVjc5SDc5NVY2NmgxMDVWMEg3MTl6TS40IDMzNi4yQy43IDMzOCAyNS4zIDYxMy4zIDU1LjEgOTQ4czU0LjIgNjA4LjYgNTQuMyA2MDguNyAxMTAuMiAzMC44IDI0NC44IDY4LjFsMjQ0LjcgNjggMjQ1LjMtNjhjMTM0LjktMzcuNCAyNDUuNC02OC4xIDI0NS40LTY4LjIuMSAwIDI0LjUtMjczLjcgNTQuMy02MDguMXM1NC40LTYwOS43IDU0LjctNjExLjhsLjYtMy43SC0uMXptOTc0LjYgMjQ5YzAgMi4yLTcuMSA4Mi4xLTQ4LjkgNTUwLjItMTAuNCAxMTYuNS0xOS4zIDIxMi4yLTE5LjggMjEyLjYtMS4xIDEtMzA0LjcgODUtMzA3LjEgODUtMS45IDAtMzA3LTg0LjQtMzA3LjctODUuMi0uMi0uMi00LjktNTEuNC0xMC40LTExMy44LTUuNi02Mi40LTEwLjMtMTE1LjQtMTAuNy0xMTcuOGwtLjUtNC4yaDc1LjVjNDEuNiAwIDc1LjYuMSA3NS43LjIgMCAuMiAyLjQgMjcgNS40IDU5LjYgMi45IDMyLjcgNS41IDU5LjUgNS43IDU5LjdzMzcuNyAxMC41IDgzLjUgMjIuOGw4My4xIDIyLjUgODMuMy0yMi41YzQ1LjktMTIuNCA4My42LTIyLjcgODMuOC0yMi44LjQtLjUgMTctMTg1LjcgMTcuMS0xOTAuOHYtMy43SDI2M3YtMi41YzAtMS40LTIuOS0zNS4xLTYuNS03NC44cy02LjUtNzIuMy02LjUtNzIuNWMwLS4xIDEyMy4xLS4yIDI3My41LS4ySDc5N3YtMi41YzAtMS4zIDIuOS0zNS4zIDYuNS03NS4zIDMuNi00MC4xIDYuNS03My43IDYuNS03NC42IDAtMS41LTIyLjEtMS42LTI4Ni43LTEuOGwtMjg2LjgtLjMtNi4xLTY4Yy0zLjQtMzcuNC02LjUtNzEtNi45LTc0LjhsLS42LTYuN0g5NzV6Ii8+PC9zdmc+)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 ----
 
 ### GitHub Statistics
 
-<img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api?username=FAXES&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="FAXES:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAXES" />
-
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://faxes.zone
 [twitter]: https://twitter.com/FAXES_YT
