@@ -23,4 +23,7 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_TIMEZONE: False
           SHOW_SHORT_INFO_HIRE: False
-          SHOW_SHORT_INFO_STORAGE: False
+          SHOW_SHORT_INFO_STORAGE: True
+          SHOW_SHORT_INFO_CONTRIBUTIONS: True
+          SHOW_SHORT_INFO_PUBLIC: True
+          SHOW_SHORT_INFO_PRIVATE: True
