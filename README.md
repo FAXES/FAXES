@@ -12,8 +12,8 @@
 
 <br />
 
-![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/light.png#gh-light-mode-only)
-![Discord](https://raw.githubusercontent.com/FAXES/FAXES/master/dark.png#gh-dark-mode-only)
+![Discord](https://invidget.switchblade.xyz/faxes?theme=light#gh-light-mode-only)
+![Discord](https://invidget.switchblade.xyz/faxes#gh-dark-mode-only)
 
 **[Join Discord][discord]**
 
