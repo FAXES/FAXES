@@ -13,7 +13,7 @@
 <br />
 
 <!-- ![Discord](https://invidget.switchblade.xyz/faxes?theme=light#gh-light-mode-only) -->
-![Discord Invite](https://discord.gg/faxes)(https://invidget.switchblade.xyz/faxes#gh-dark-mode-only)
+[![Discord Invite]([link to image on GH](https://invidget.switchblade.xyz/faxes#gh-dark-mode-only))]([link to your URL](https://discord.gg/faxes))
 
 **[Join Discord][discord]**
 
