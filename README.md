@@ -12,13 +12,13 @@
 
 <br />
 
-<picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/faxes">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/faxes/light">
-      <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/faxes">
-</picture>
-
-**[Join Discord][discord]**
+<a href="https://discord.gg/faxes" target="_blank">
+      <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/faxes">
+            <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/faxes/light">
+            <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/faxes">
+      </picture>
+</a>
 
 <br />
 
