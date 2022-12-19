@@ -12,8 +12,11 @@
 
 <br />
 
-[![Discord](https://api.weblutions.com/discord/invite/faxes/light#gh-light-mode-only)](https://discord.gg/faxes)
-![Discord](https://api.weblutions.com/discord/invite/faxes#gh-dark-mode-only)
+<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/faxes">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/faxes/light">
+      <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/faxes">
+</picture>
 
 **[Join Discord][discord]**
 
