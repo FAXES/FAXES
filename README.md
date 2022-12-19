@@ -11,9 +11,9 @@
 *Feel free to shoot me a follow or star some repositories!*
 
 <br />
-![Discord](https://api.weblutions.com/discord/invite/faxes/light)
 
-![Discord](https://api.weblutions.com/discord/invite/faxes)
+[![Discord](https://api.weblutions.com/discord/invite/faxes/light#gh-light-mode-only)](https://discord.gg/faxes)
+[![Discord](https://api.weblutions.com/discord/invite/faxes#gh-dark-mode-only)](https://discord.gg/faxes)
 
 **[Join Discord][discord]**
 
