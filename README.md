@@ -6,8 +6,8 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://faxes.zone)](https://faxes.zone)
 ![](https://komarev.com/ghpvc/?username=FAXES&label=Views)
 <br>
-![status](https://api.statusbadges.me/badge/status/282762192544333827?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/282762192544333827)
+![status](https://api.statusbadges.me/badge/status/282762192544333827)
+![vscode](https://api.statusbadges.me/badge/vscode/282762192544333827)
 [![spotify](https://api.statusbadges.me/badge/spotify/282762192544333827)](https://api.statusbadges.me/openspotify/282762192544333827)
 
 *Hi, I'm FAXES, a Full Stack Developer located in Australia, mainly working on Node based websites, I have previously worked on FiveM resources, Discord bots, PHP websites, and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate.*
