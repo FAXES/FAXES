@@ -10,7 +10,9 @@
 ![vscode](https://api.statusbadges.me/badge/vscode/282762192544333827?fallback=Nothing)
 [![spotify](https://api.statusbadges.me/badge/spotify/282762192544333827?fallback=Nothing)](https://api.statusbadges.me/openspotify/282762192544333827)
 
-*Hi, I'm FAXES, a Full Stack Developer located in Australia, mainly working on Node based websites, I have previously worked on FiveM resources, Discord bots, PHP websites, and many more. I've been in the programming world since 2017 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate.*
+*G'day, I'm Josh AKA FAXES, a Full Stack Developer located in Australia, mainly working on Node-based websites, I have previously worked on FiveM resources, Discord bots, PHP websites, and many more. I've been in the programming world since 2017 and have fully self-taught myself from various resources online. I love to code and it's a passion turned into a [business][website] I operate.*
+
+*I'm also a part-time contractor for [TurboNode](https://github.com/turbonodellc), a newer hosting company that's doing it right!*
 
 *Feel free to shoot me a follow or star some repositories!*
 
