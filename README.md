@@ -89,17 +89,16 @@ Sunday                   411 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              ██████████████████████░░░   89.44 % 
-EJS                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FaxStore                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
