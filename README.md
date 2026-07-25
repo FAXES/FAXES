@@ -48,6 +48,8 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C229%20hrs%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-640.18%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -87,20 +89,20 @@ Sunday                   814 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 34 mins       █████████████████████░░░░   84.06 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JavaScript               2 hrs 27 mins       █████████████████████░░░░   83.50 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-home-server              3 hrs 4 mins        █████████████████████████   100.00 % 
+home-server              2 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
