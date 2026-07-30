@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C149%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C149%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%206%20mins-blue?style=flat)
 
@@ -91,21 +91,24 @@ Sunday                   814 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               12 mins             ████████████████░░░░░░░░░   64.05 % 
-Text                     7 mins              █████████░░░░░░░░░░░░░░░░   35.54 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Bash                     14 mins             █████████░░░░░░░░░░░░░░░░   36.52 % 
+JavaScript               12 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Text                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-home-server              9 mins              ███████████░░░░░░░░░░░░░░   45.62 % 
-Unknown Project          7 mins              █████████░░░░░░░░░░░░░░░░   35.54 % 
-TurboNode-Panel          3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Unknown Project          25 mins             █████████████████░░░░░░░░   66.82 % 
+home-server              9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+TurboNode-Panel          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 💻 Operating System: 
-Windows                  10 mins             ██████████████░░░░░░░░░░░   54.38 % 
-Mac                      9 mins              ███████████░░░░░░░░░░░░░░   45.62 % 
+Linux                    18 mins             ████████████░░░░░░░░░░░░░   48.52 % 
+Windows                  10 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Mac                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
 ```
 
 🤖 **AI Coding This Week** 
