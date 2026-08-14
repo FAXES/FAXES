@@ -48,9 +48,9 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C153%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C154%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-642.49%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -91,41 +91,44 @@ Sunday                   814 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               57 mins             ██████████████░░░░░░░░░░░   56.74 % 
-CSS                      31 mins             ████████░░░░░░░░░░░░░░░░░   31.51 % 
-EJS                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+JavaScript               1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   41.71 % 
+EJS                      38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+CSS                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+SQL                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████░░░░░░░░   67.97 % 
-Codex Vscode             32 mins             ████████░░░░░░░░░░░░░░░░░   32.03 % 
+VS Code                  2 hrs 11 mins       ████████████████████░░░░░   78.87 % 
+Codex Vscode             35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 
 🐱‍💻 Projects: 
-Docvora                  1 hr 41 mins        █████████████████████████   100.00 % 
+Docvora                  1 hr 48 mins        ████████████████░░░░░░░░░   64.73 % 
+docvora-main             58 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (61.2%)
+⏱ AI Coding Time: 1 hr 5 mins (39.29%)
 
-✍️ 1,119 lines written by AI, 37 lines written by hand (96.8% AI-written)
+✍️ 1,261 lines written by AI, 77 lines written by hand (94.25% AI-written)
 
-🔤 469,485 Input Tokens, 41,189 Output Tokens
+🔤 654,882 Input Tokens, 52,536 Output Tokens
 
-💵 $8.77 Estimated AI Cost This Week
+💵 $10.96 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
-GPT                      1,129 lines         █████████████████████████   100.00 % 
+GPT                      1,271 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.8% of written lines came from AI
-📝 Concise Prompter — average 413 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 46.62% of changed lines were hand-edited
+🤖 AI-Driven — 94.25% of written lines came from AI
+📝 Concise Prompter — average 423 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 45.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
