@@ -91,29 +91,30 @@ Sunday                   816 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 44 mins        ███████████░░░░░░░░░░░░░░   44.64 % 
-EJS                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-SQL                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-CSS                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+JavaScript               1 hr 44 mins        ███████████░░░░░░░░░░░░░░   42.56 % 
+EJS                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+SQL                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+CSS                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        ████████████████████░░░░░   78.17 % 
-Codex Vscode             51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+VS Code                  3 hrs 15 mins       ████████████████████░░░░░   79.19 % 
+Codex Vscode             51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
 
 🐱‍💻 Projects: 
-Docvora                  2 hrs               █████████████░░░░░░░░░░░░   51.38 % 
-docvora-main             1 hr 54 mins        ████████████░░░░░░░░░░░░░   48.62 % 
+Docvora                  2 hrs               ████████████░░░░░░░░░░░░░   48.99 % 
+docvora-main             1 hr 54 mins        ████████████░░░░░░░░░░░░░   46.36 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       ██████████████████████░░░   89.13 % 
-Mac                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Windows                  3 hrs 40 mins       ██████████████████████░░░   89.63 % 
+Mac                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (35.92%)
+⏱ AI Coding Time: 1 hr 24 mins (34.25%)
 
 ✍️ 1,840 lines written by AI, 228 lines written by hand (88.97% AI-written)
 
