@@ -52,13 +52,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-647.18%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 152.7 kB Used in GitHub's Storage 
  > 
-> 🏆 495 Contributions in the Year 2026
+> 🏆 499 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,21 +69,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-🌆 Daytime                1777 commits        ██████████░░░░░░░░░░░░░░░   40.24 % 
-🌃 Evening                1670 commits        █████████░░░░░░░░░░░░░░░░   37.82 % 
+🌞 Morning                574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+🌆 Daytime                1777 commits        ██████████░░░░░░░░░░░░░░░   40.21 % 
+🌃 Evening                1673 commits        █████████░░░░░░░░░░░░░░░░   37.86 % 
 🌙 Night                  395 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  778 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Wednesday                407 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Thursday                 551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Monday                   596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Tuesday                  778 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                407 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Thursday                 553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 Friday                   603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 668 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Sunday                   813 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Saturday                 669 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Sunday                   813 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 ```
 
 
@@ -91,46 +91,46 @@ Sunday                   813 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.68 % 
-EJS                      32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+JavaScript               41 mins             ██████████░░░░░░░░░░░░░░░   40.58 % 
+EJS                      29 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        ████████████████████░░░░░   80.07 % 
-Codex Vscode             26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+VS Code                  1 hr 21 mins        ████████████████████░░░░░   79.77 % 
+Codex Vscode             20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
 
 🐱‍💻 Projects: 
-Docvora                  1 hr 5 mins         ████████████░░░░░░░░░░░░░   49.59 % 
-docvora-main             54 mins             ██████████░░░░░░░░░░░░░░░   41.69 % 
-Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Docvora                  1 hr                ███████████████░░░░░░░░░░   59.62 % 
+docvora-main             28 mins             ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Unknown Project          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        ████████████████████░░░░░   80.55 % 
-Mac                      25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Windows                  1 hr 15 mins        ██████████████████░░░░░░░   73.96 % 
+Mac                      26 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (37.28%)
+⏱ AI Coding Time: 43 mins (42.75%)
 
-✍️ 905 lines written by AI, 1,159 lines written by hand (43.85% AI-written)
+✍️ 326 lines written by AI, 1,157 lines written by hand (21.98% AI-written)
 
-🔤 315,977 Input Tokens, 43,979 Output Tokens
+🔤 414,558 Input Tokens, 38,991 Output Tokens
 
-💵 $4.79 Estimated AI Cost This Week
+💵 $6.06 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                      925 lines           █████████████████████████   100.00 % 
+GPT                      326 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.85% of written lines came from AI
-📄 Detailed Prompter — average 782 characters per prompt
+🧑‍💻 Mostly Hands-On — 21.98% of written lines came from AI
+📄 Detailed Prompter — average 654 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 56.82% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
