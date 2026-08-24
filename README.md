@@ -91,46 +91,45 @@ Sunday                   813 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               41 mins             ██████████░░░░░░░░░░░░░░░   40.58 % 
-EJS                      29 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JavaScript               32 mins             ███████████░░░░░░░░░░░░░░   42.56 % 
+Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+EJS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        ████████████████████░░░░░   79.77 % 
-Codex Vscode             20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+VS Code                  1 hr 5 mins         ██████████████████████░░░   86.83 % 
+Codex Vscode             9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 
 🐱‍💻 Projects: 
-Docvora                  1 hr                ███████████████░░░░░░░░░░   59.62 % 
-docvora-main             28 mins             ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Unknown Project          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Docvora                  52 mins             █████████████████░░░░░░░░   69.50 % 
+Unknown Project          12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+docvora-main             10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        ██████████████████░░░░░░░   73.96 % 
-Mac                      26 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (42.75%)
+⏱ AI Coding Time: 30 mins (39.95%)
 
-✍️ 326 lines written by AI, 1,157 lines written by hand (21.98% AI-written)
+✍️ 326 lines written by AI, 1,021 lines written by hand (24.2% AI-written)
 
-🔤 414,558 Input Tokens, 38,991 Output Tokens
+🔤 145,695 Input Tokens, 27,966 Output Tokens
 
-💵 $6.06 Estimated AI Cost This Week
+💵 $4.37 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      326 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.98% of written lines came from AI
-📄 Detailed Prompter — average 654 characters per prompt
+🧑‍💻 Mostly Hands-On — 24.2% of written lines came from AI
+📄 Detailed Prompter — average 819 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 78.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 76.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
