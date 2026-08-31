@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C161%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2041%20mins-blue?style=flat)
 
@@ -56,7 +56,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 152.7 kB Used in GitHub's Storage 
+> 📦 152.8 kB Used in GitHub's Storage 
  > 
 > 🏆 512 Contributions in the Year 2026
  > 
@@ -91,32 +91,32 @@ Sunday                   816 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 45 mins       ████████████████████░░░░░   79.54 % 
-CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-EJS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JavaScript               3 hrs 59 mins       ████████████████████░░░░░   78.75 % 
+EJS                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████░░░░   84.78 % 
-Codex Vscode             31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+VS Code                  4 hrs 33 mins       ██████████████████████░░░   89.62 % 
+Codex Vscode             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 
 🐱‍💻 Projects: 
-npmaps-main              1 hr 37 mins        ████████████░░░░░░░░░░░░░   47.15 % 
-Docvora                  1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   39.24 % 
-FaxStore                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Docvora                  2 hrs 58 mins       ███████████████░░░░░░░░░░   58.59 % 
+npmaps-main              1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
+FaxStore                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████░░░░░░░░░░░░   52.85 % 
-Linux                    1 hr 37 mins        ████████████░░░░░░░░░░░░░   47.15 % 
+Mac                      3 hrs 26 mins       █████████████████░░░░░░░░   67.87 % 
+Linux                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (19.29%)
+⏱ AI Coding Time: 40 mins (13.15%)
 
-✍️ 735 lines written by AI, 508 lines written by hand (59.13% AI-written)
+✍️ 735 lines written by AI, 667 lines written by hand (52.43% AI-written)
 
 🔤 788,704 Input Tokens, 48,701 Output Tokens
 
@@ -127,10 +127,10 @@ Linux                    1 hr 37 mins        ███████████�
 GPT                      737 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.13% of written lines came from AI
+⚖️ Balanced with AI — 52.43% of written lines came from AI
 📝 Concise Prompter — average 428 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 56.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 63.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
