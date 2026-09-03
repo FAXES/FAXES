@@ -48,9 +48,9 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C162%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C163%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-643.67%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -91,47 +91,49 @@ Sunday                   813 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 18 mins       █████████████████████░░░░   83.16 % 
-EJS                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript               4 hrs 11 mins       ████████████████████░░░░░   79.60 % 
+EJS                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 3 mins        ████████████████████████░   97.56 % 
-Codex Vscode             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+VS Code                  5 hrs 1 min         ████████████████████████░   95.35 % 
+Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🐱‍💻 Projects: 
-Docvora                  2 hrs 43 mins       █████████████░░░░░░░░░░░░   52.53 % 
-npmaps-main              1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
-FaxStore                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-docvora-main             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Docvora                  3 hrs 1 min         ██████████████░░░░░░░░░░░   57.39 % 
+FaxStore                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+LicenseSystem            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+npmaps-main              32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████░░░░░░░░   68.51 % 
-Linux                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Mac                      4 hrs 35 mins       ██████████████████████░░░   87.29 % 
+Linux                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (2.44%)
+⏱ AI Coding Time: 18 mins (5.75%)
 
-✍️ 0 lines written by AI, 702 lines written by hand (0.0% AI-written)
+✍️ 478 lines written by AI, 382 lines written by hand (55.58% AI-written)
 
-🔤 53,549 Input Tokens, 2,922 Output Tokens
+🔤 226,770 Input Tokens, 20,192 Output Tokens
 
-💵 $6.03 Estimated AI Cost This Week
+💵 $8.59 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      478 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 55.58% of written lines came from AI
+📝 Concise Prompter — average 367 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 67.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
