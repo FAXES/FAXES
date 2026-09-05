@@ -52,7 +52,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.86%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646.04%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -70,8 +70,8 @@
 
 ```text
 🌞 Morning                577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-🌆 Daytime                1777 commits        ██████████░░░░░░░░░░░░░░░   39.99 % 
-🌃 Evening                1693 commits        ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌆 Daytime                1778 commits        ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌃 Evening                1693 commits        ██████████░░░░░░░░░░░░░░░   38.09 % 
 🌙 Night                  397 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -82,7 +82,7 @@ Tuesday                  781 commits         ████░░░░░░░�
 Wednesday                408 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 Thursday                 563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 Friday                   605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 673 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 674 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 Sunday                   813 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 ```
 
@@ -91,35 +91,34 @@ Sunday                   813 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 41 mins       ████████████████████░░░░░   81.93 % 
-EJS                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JavaScript               4 hrs 16 mins       █████████████████████░░░░   82.55 % 
+EJS                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  5 hrs               ██████████████████████░░░   87.54 % 
-Codex Vscode             42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+VS Code                  4 hrs 28 mins       ██████████████████████░░░   86.23 % 
+Codex Vscode             42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 
 🐱‍💻 Projects: 
-Docvora                  3 hrs 40 mins       ████████████████░░░░░░░░░   64.04 % 
-FaxStore                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-LicenseSystem            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-npmaps-main              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Docvora                  3 hrs 40 mins       ██████████████████░░░░░░░   70.78 % 
+FaxStore                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+LicenseSystem            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+docvora-main             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Mac                      5 hrs 3 mins        ██████████████████████░░░   88.30 % 
-Linux                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Mac                      5 hrs 3 mins        ████████████████████████░   97.61 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (18.96%)
+⏱ AI Coding Time: 1 hr 5 mins (20.96%)
 
-✍️ 823 lines written by AI, 368 lines written by hand (69.1% AI-written)
+✍️ 823 lines written by AI, 281 lines written by hand (74.55% AI-written)
 
 🔤 442,405 Input Tokens, 37,352 Output Tokens
 
@@ -130,10 +129,10 @@ Windows                  7 mins              █░░░░░░░░░░�
 GPT                      996 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.1% of written lines came from AI
+🤖 AI-Driven — 74.55% of written lines came from AI
 📝 Concise Prompter — average 231 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 53.59% of changed lines were hand-edited
+🚀 High AI Trust — 40.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
