@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C172%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C172%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2030%20mins-blue?style=flat)
 
@@ -91,49 +91,49 @@ Sunday                   820 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 49 mins       ████████████████░░░░░░░░░   62.92 % 
-EJS                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JavaScript               6 hrs 55 mins       ████████████████░░░░░░░░░   62.23 % 
+EJS                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 46 mins       ███████████████████████░░   90.20 % 
-Codex Vscode             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+VS Code                  9 hrs 59 mins       ██████████████████████░░░   89.77 % 
+Codex Vscode             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 
 🐱‍💻 Projects: 
-LicenseSystem            3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
-Docvora                  3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-FaxDocs                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Unknown Project          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-docvora-main             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+LicenseSystem            3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
+Docvora                  3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+FaxDocs                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Unknown Project          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+docvora-main             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 💻 Operating System: 
-Mac                      5 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.83 % 
-Windows                  4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
-Linux                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Mac                      5 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.20 % 
+Windows                  5 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.50 % 
+Linux                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (16.72%)
+⏱ AI Coding Time: 1 hr 53 mins (16.99%)
 
-✍️ 1,030 lines written by AI, 1,144 lines written by hand (47.38% AI-written)
+✍️ 1,030 lines written by AI, 1,183 lines written by hand (46.54% AI-written)
 
-🔤 708,128 Input Tokens, 60,534 Output Tokens
+🔤 764,762 Input Tokens, 74,786 Output Tokens
 
-💵 $15.14 Estimated AI Cost This Week
+💵 $12.77 Estimated AI Cost This Week
 
 🧠 7 AI Sessions, 11 AI Prompts
 
 GPT                      1,207 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.38% of written lines came from AI
+⚖️ Balanced with AI — 46.54% of written lines came from AI
 📝 Concise Prompter — average 262 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 66.58% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 66.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
