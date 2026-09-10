@@ -48,9 +48,9 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C172%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C173%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-667.93%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -91,49 +91,49 @@ Sunday                   820 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 55 mins       ████████████████░░░░░░░░░   62.23 % 
-EJS                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               5 hrs 58 mins       ██████████████░░░░░░░░░░░   56.15 % 
+EJS                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 59 mins       ██████████████████████░░░   89.77 % 
-Codex Vscode             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+VS Code                  9 hrs 30 mins       ██████████████████████░░░   89.16 % 
+Codex Vscode             1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 
 🐱‍💻 Projects: 
-LicenseSystem            3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
-Docvora                  3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-FaxDocs                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Unknown Project          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-docvora-main             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+LicenseSystem            3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Docvora                  2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+FaxDocs                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+sqlite-online-main       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 💻 Operating System: 
-Mac                      5 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.20 % 
-Windows                  5 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.50 % 
-Linux                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Windows                  5 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.44 % 
+Mac                      4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
+Linux                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (16.99%)
+⏱ AI Coding Time: 1 hr 50 mins (17.36%)
 
-✍️ 1,030 lines written by AI, 1,183 lines written by hand (46.54% AI-written)
+✍️ 620 lines written by AI, 1,104 lines written by hand (35.96% AI-written)
 
-🔤 764,762 Input Tokens, 74,786 Output Tokens
+🔤 630,931 Input Tokens, 61,071 Output Tokens
 
-💵 $12.77 Estimated AI Cost This Week
+💵 $10.43 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 11 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
-GPT                      1,207 lines         █████████████████████████   100.00 % 
+GPT                      799 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.54% of written lines came from AI
-📝 Concise Prompter — average 262 characters per prompt
+⚖️ Balanced with AI — 35.96% of written lines came from AI
+📄 Detailed Prompter — average 574 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 66.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 75.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
