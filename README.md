@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2043%20mins-blue?style=flat)
 
@@ -91,49 +91,49 @@ Sunday                   820 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 24 mins       ███████████████░░░░░░░░░░   59.81 % 
-EJS                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+JavaScript               5 hrs 41 mins       ██████████████░░░░░░░░░░░   57.41 % 
+EJS                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 41 mins      ████████████████████████░   94.44 % 
-Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+VS Code                  9 hrs 27 mins       ████████████████████████░   95.34 % 
+Codex Vscode             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🐱‍💻 Projects: 
-LicenseSystem            3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-FaxStore                 2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Docvora                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-FaxDocs                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Unknown Project          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+FaxStore                 3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
+FaxDocs                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Docvora                  1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Unknown Project          1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+LicenseSystem            54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 💻 Operating System: 
-Mac                      5 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.21 % 
-Windows                  5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.82 % 
-Linux                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Mac                      5 hrs 53 mins       ███████████████░░░░░░░░░░   59.38 % 
+Windows                  2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Linux                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (8.61%)
+⏱ AI Coding Time: 49 mins (8.3%)
 
-✍️ 275 lines written by AI, 1,231 lines written by hand (18.26% AI-written)
+✍️ 202 lines written by AI, 560 lines written by hand (26.51% AI-written)
 
-🔤 398,331 Input Tokens, 40,956 Output Tokens
+🔤 246,787 Input Tokens, 24,421 Output Tokens
 
-💵 $6.66 Estimated AI Cost This Week
+💵 $2.99 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 7 AI Prompts
 
-GPT                      281 lines           █████████████████████████   100.00 % 
+GPT                      204 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.26% of written lines came from AI
-📄 Detailed Prompter — average 830 characters per prompt
+🧑‍💻 Mostly Hands-On — 26.51% of written lines came from AI
+📄 Detailed Prompter — average 862 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.85% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
