@@ -91,35 +91,35 @@ Sunday                   820 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 41 mins       ██████████████░░░░░░░░░░░   57.41 % 
-EJS                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+JavaScript               3 hrs 55 mins       █████████████░░░░░░░░░░░░   51.45 % 
+EJS                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 27 mins       ████████████████████████░   95.34 % 
-Codex Vscode             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+VS Code                  7 hrs 9 mins        ███████████████████████░░   93.94 % 
+Codex Vscode             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🐱‍💻 Projects: 
-FaxStore                 3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-FaxDocs                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Docvora                  1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Unknown Project          1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-LicenseSystem            54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+FaxStore                 3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
+Docvora                  1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Unknown Project          59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+docvora-main             52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+sqlite-online-main       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 💻 Operating System: 
-Mac                      5 hrs 53 mins       ███████████████░░░░░░░░░░   59.38 % 
-Windows                  2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Linux                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Mac                      5 hrs 53 mins       ███████████████████░░░░░░   77.24 % 
+Linux                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Windows                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (8.3%)
+⏱ AI Coding Time: 49 mins (10.79%)
 
-✍️ 202 lines written by AI, 560 lines written by hand (26.51% AI-written)
+✍️ 202 lines written by AI, 219 lines written by hand (47.98% AI-written)
 
 🔤 246,787 Input Tokens, 24,421 Output Tokens
 
@@ -130,10 +130,10 @@ Linux                    1 hr 21 mins        ███░░░░░░░░�
 GPT                      204 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.51% of written lines came from AI
+⚖️ Balanced with AI — 47.98% of written lines came from AI
 📄 Detailed Prompter — average 862 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 83.68% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
