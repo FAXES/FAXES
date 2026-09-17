@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2043%20mins-blue?style=flat)
 
@@ -91,48 +91,29 @@ Sunday                   820 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 50 mins       █████████████████░░░░░░░░   66.35 % 
-TypeScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-SQL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JavaScript               3 hrs 11 mins       ████████████████████░░░░░   81.90 % 
+SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+EJS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        ████████████████████████░   95.02 % 
-Codex Vscode             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FaxStore                 3 hrs 11 mins       ███████████████████░░░░░░   74.40 % 
-sqlite-online-main       39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-docvora-main             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+FaxStore                 3 hrs 37 mins       ███████████████████████░░   93.17 % 
+docvora-main             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Docvora                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████░░░░   82.87 % 
-Linux                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Mac                      3 hrs 48 mins       █████████████████████████   98.03 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (4.98%)
-
-✍️ 68 lines written by AI, 141 lines written by hand (32.54% AI-written)
-
-🔤 51,213 Input Tokens, 6,012 Output Tokens
-
-💵 $0.61 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-GPT                      70 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.54% of written lines came from AI
-📚 Verbose Prompter — average 1,601 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 84.51% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
