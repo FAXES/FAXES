@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2043%20mins-blue?style=flat)
 
@@ -91,23 +91,24 @@ Sunday                   820 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 11 mins       ████████████████████░░░░░   81.90 % 
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-EJS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript               2 hrs 15 mins       ████████████████████░░░░░   81.96 % 
+SQL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+EJS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FaxStore                 3 hrs 37 mins       ███████████████████████░░   93.17 % 
-docvora-main             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Docvora                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+FaxStore                 2 hrs 24 mins       ██████████████████████░░░   87.52 % 
+docvora-main             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Docvora                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      3 hrs 48 mins       █████████████████████████   98.03 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Mac                      2 hrs 35 mins       ████████████████████████░   94.40 % 
+Windows                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
 
 🤖 **AI Coding This Week** 
