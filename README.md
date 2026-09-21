@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C179%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2043%20mins-blue?style=flat)
 
@@ -91,24 +91,24 @@ Sunday                   821 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 1 min          ███████████░░░░░░░░░░░░░░   45.83 % 
-EJS                      57 mins             ███████████░░░░░░░░░░░░░░   42.50 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+JavaScript               1 hr 15 mins        ███████████░░░░░░░░░░░░░░   45.76 % 
+EJS                      1 hr 13 mins        ███████████░░░░░░░░░░░░░░   44.68 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Docvora                  1 hr 42 mins        ███████████████████░░░░░░   76.07 % 
-FaxStore                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-docvora-main             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Docvora                  2 hrs 12 mins       ████████████████████░░░░░   80.49 % 
+FaxStore                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+docvora-main             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        ████████████████████░░░░░   79.20 % 
-Mac                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Windows                  1 hr 46 mins        ████████████████░░░░░░░░░   64.56 % 
+Mac                      58 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
 ```
 
 🤖 **AI Coding This Week** 
