@@ -91,31 +91,31 @@ Sunday                   822 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
-EJS                      1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-CSS                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JavaScript               1 hr 58 mins        ███████████░░░░░░░░░░░░░░   43.10 % 
+EJS                      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+CSS                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████░░░░░░░░   66.61 % 
-Claude Code              1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Codex Vscode             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+VS Code                  2 hrs 50 mins       ████████████████░░░░░░░░░   62.02 % 
+Claude Code              1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Codex Vscode             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 🐱‍💻 Projects: 
-Docvora                  5 hrs 12 mins       █████████████████████████   100.00 % 
+Docvora                  4 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       ████████████████░░░░░░░░░   62.63 % 
-Windows                  1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.37 % 
+Mac                      3 hrs 15 mins       ██████████████████░░░░░░░   71.22 % 
+Windows                  1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (43.1%)
+⏱ AI Coding Time: 2 hrs 14 mins (49.01%)
 
-✍️ 3,207 lines written by AI, 141 lines written by hand (95.79% AI-written)
+✍️ 3,207 lines written by AI, 71 lines written by hand (97.83% AI-written)
 
 🔤 982,797 Input Tokens, 133,991 Output Tokens
 
@@ -128,10 +128,10 @@ GPT                      1,141 lines         █████████░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.79% of written lines came from AI
+🤖 AI-Driven — 97.83% of written lines came from AI
 📝 Concise Prompter — average 410 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.58% of changed lines were hand-edited
+🚀 High AI Trust — 2.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
