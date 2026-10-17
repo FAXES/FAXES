@@ -48,7 +48,7 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C196%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C197%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2059%20mins-blue?style=flat)
 
@@ -91,33 +91,34 @@ Sunday                   825 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
-EJS                      1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-JSON                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+JavaScript               3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+EJS                      1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 39 mins       ████████████████░░░░░░░░░   63.42 % 
-VS Code                  2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
+Claude Code              4 hrs 39 mins       ███████████████░░░░░░░░░░   58.22 % 
+VS Code                  3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
 
 🐱‍💻 Projects: 
-docvora-main             3 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.68 % 
-Docvora                  2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-FaxUp                    1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+docvora-main             3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
+Docvora                  2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+FaxUp                    1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 FaxDocs                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      5 hrs 32 mins       ███████████████████░░░░░░   75.47 % 
-Windows                  1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Mac                      6 hrs 4 mins        ███████████████████░░░░░░   75.95 % 
+Windows                  1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 56 mins (67.26%)
+⏱ AI Coding Time: 4 hrs 56 mins (61.75%)
 
-✍️ 7,600 lines written by AI, 219 lines written by hand (97.2% AI-written)
+✍️ 7,600 lines written by AI, 220 lines written by hand (97.19% AI-written)
 
 🔤 5,120,648 Input Tokens, 831,483 Output Tokens
 
@@ -129,10 +130,10 @@ Opus                     12,783 lines        ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.2% of written lines came from AI
+🤖 AI-Driven — 97.19% of written lines came from AI
 📝 Concise Prompter — average 375 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.84% of changed lines were hand-edited
+🚀 High AI Trust — 1.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
