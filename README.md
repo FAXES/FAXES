@@ -91,50 +91,50 @@ Sunday                   832 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.23 % 
-EJS                      1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Markdown                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-HTML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JavaScript               4 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.66 % 
+EJS                      1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+HTML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+XML                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 33 mins       ██████████████░░░░░░░░░░░   54.90 % 
-VS Code                  4 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
+Claude Code              4 hrs 49 mins       █████████████░░░░░░░░░░░░   52.44 % 
+VS Code                  4 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.56 % 
 
 🐱‍💻 Projects: 
-Docvora                  5 hrs 13 mins       █████████████░░░░░░░░░░░░   51.60 % 
-coseditorweb             2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-js                       1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-FaxUp                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-docvora-main             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Docvora                  4 hrs 50 mins       █████████████░░░░░░░░░░░░   52.64 % 
+coseditorweb             2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+js                       1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+docvora-main             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+FaxUp                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Mac                      5 hrs 43 mins       ██████████████░░░░░░░░░░░   56.44 % 
-Windows                  4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.49 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Mac                      5 hrs 19 mins       ██████████████░░░░░░░░░░░   57.97 % 
+Windows                  3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.94 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 28 mins (63.96%)
+⏱ AI Coding Time: 5 hrs 39 mins (61.68%)
 
-✍️ 8,544 lines written by AI, 179 lines written by hand (97.95% AI-written)
+✍️ 8,160 lines written by AI, 111 lines written by hand (98.66% AI-written)
 
-🔤 3,486,416 Input Tokens, 1,015,373 Output Tokens
+🔤 3,138,787 Input Tokens, 913,121 Output Tokens
 
-💵 $56.96 Estimated AI Cost This Week
+💵 $51.42 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 49 AI Prompts
+🧠 18 AI Sessions, 44 AI Prompts
 
-Opus                     13,621 lines        █████████████████████████   100.00 % 
+Opus                     8,285 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.95% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
+🤖 AI-Driven — 98.66% of written lines came from AI
+📝 Concise Prompter — average 394 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.79% of changed lines were hand-edited
+🚀 High AI Trust — 3.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
