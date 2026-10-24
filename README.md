@@ -48,9 +48,9 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-709.21%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -91,50 +91,50 @@ Sunday                   832 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 18 mins       █████████████░░░░░░░░░░░░   52.14 % 
-EJS                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-HTML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-XML                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+JavaScript               4 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.56 % 
+EJS                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+HTML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+XML                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████░░░░░░░░░░░░   51.12 % 
-Claude Code              4 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.88 % 
+Claude Code              4 hrs 39 mins       ██████████████░░░░░░░░░░░   56.09 % 
+VS Code                  3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
 
 🐱‍💻 Projects: 
-Docvora                  4 hrs 13 mins       █████████████░░░░░░░░░░░░   51.04 % 
-coseditorweb             2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-js                       1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-docvora-main             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Docvora                  4 hrs 39 mins       ██████████████░░░░░░░░░░░   55.97 % 
+coseditorweb             2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+js                       1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+docvora-main             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Mac                      4 hrs 42 mins       ██████████████░░░░░░░░░░░   56.96 % 
-Windows                  3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
+Mac                      4 hrs 52 mins       ███████████████░░░░░░░░░░   58.72 % 
+Windows                  3 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 56 mins (59.72%)
+⏱ AI Coding Time: 5 hrs 34 mins (67.07%)
 
-✍️ 9,194 lines written by AI, 104 lines written by hand (98.88% AI-written)
+✍️ 9,921 lines written by AI, 101 lines written by hand (98.99% AI-written)
 
-🔤 2,246,272 Input Tokens, 801,409 Output Tokens
+🔤 2,353,822 Input Tokens, 873,200 Output Tokens
 
-💵 $52.44 Estimated AI Cost This Week
+💵 $61.74 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 33 AI Prompts
+🧠 14 AI Sessions, 41 AI Prompts
 
-Opus                     9,256 lines         █████████████████████████   100.00 % 
+Opus                     9,983 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.88% of written lines came from AI
-📝 Concise Prompter — average 389 characters per prompt
+🤖 AI-Driven — 98.99% of written lines came from AI
+📝 Concise Prompter — average 357 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.26% of changed lines were hand-edited
+🚀 High AI Trust — 2.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
