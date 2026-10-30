@@ -48,9 +48,9 @@
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C213%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-744.50%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -91,47 +91,48 @@ Sunday                   839 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.73 % 
-Markdown                 1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-EJS                      1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               4 hrs 51 mins       █████████████░░░░░░░░░░░░   51.27 % 
+Markdown                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+EJS                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 9 mins        █████████████████░░░░░░░░   69.84 % 
-VS Code                  2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Claude Code              6 hrs 21 mins       █████████████████░░░░░░░░   67.08 % 
+VS Code                  3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.92 % 
 
 🐱‍💻 Projects: 
-Docvora                  4 hrs 54 mins       ██████████████░░░░░░░░░░░   55.75 % 
-docvora-main             3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
-npops                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+docvora-main             4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.55 % 
+Docvora                  3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.10 % 
+home-server              1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+npops                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Mac                      8 hrs 44 mins       █████████████████████████   99.19 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Mac                      9 hrs 24 mins       █████████████████████████   99.24 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 31 mins (85.43%)
+⏱ AI Coding Time: 7 hrs 43 mins (81.39%)
 
-✍️ 13,571 lines written by AI, 35 lines written by hand (99.74% AI-written)
+✍️ 9,469 lines written by AI, 45 lines written by hand (99.53% AI-written)
 
-🔤 6,058,924 Input Tokens, 1,159,564 Output Tokens
+🔤 5,851,329 Input Tokens, 1,073,981 Output Tokens
 
-💵 $103.65 Estimated AI Cost This Week
+💵 $87.94 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 47 AI Prompts
+🧠 17 AI Sessions, 50 AI Prompts
 
-Opus                     13,588 lines        █████████████████████████   99.40 % 
-Claude-Code              82 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Opus                     9,589 lines         █████████████████████████   99.15 % 
+Claude-Code              82 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📝 Concise Prompter — average 425 characters per prompt
+🤖 AI-Driven — 99.53% of written lines came from AI
+📝 Concise Prompter — average 422 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
